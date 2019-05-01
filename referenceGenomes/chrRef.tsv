@@ -1,132 +1,132 @@
 1	best	NZ_CP013023	chromosome	Paenibacillus bovis	994	0.999713
 10	best	NZ_CP007772	chromosome	Campylobacter subantarcticus	945	0.99731
-10	noise	NZ_CP006905	chromosome	Clostridium baratii	1	0.7196859999999999
+10	bad	NZ_CP006905	chromosome	Clostridium baratii	1	0.7196859999999999
 11	best	NZ_CP014234	chromosome	Moraxella osloensis	793	0.989016
 12	best	NC_009338	chromosome	Mycobacterium gilvum	974	0.9987459999999999
-12	noise	NZ_CP015866	chromosome	Streptomyces parvulus	2	0.743837
-12	noise	NZ_CP015093	chromosome	Pelagibaca abyssi	1	0.7196859999999999
-12	noise	NC_011894	chromosome	Methylobacterium nodulans	1	0.7196859999999999
-12	noise	NC_010655	chromosome	Akkermansia muciniphila	1	0.7196859999999999
-12	noise	NC_004578	chromosome	Pseudomonas syringae group genomosp. 3	1	0.7196859999999999
+12	bad	NZ_CP015866	chromosome	Streptomyces parvulus	2	0.743837
+12	bad	NZ_CP015093	chromosome	Pelagibaca abyssi	1	0.7196859999999999
+12	bad	NC_011894	chromosome	Methylobacterium nodulans	1	0.7196859999999999
+12	bad	NC_010655	chromosome	Akkermansia muciniphila	1	0.7196859999999999
+12	bad	NC_004578	chromosome	Pseudomonas syringae group genomosp. 3	1	0.7196859999999999
 13	best	NZ_CP014623	chromosome	Lactobacillus backii	934	0.9967540000000001
-13	noise	NZ_CP014912	chromosome	Lactobacillus paracollinoides	2	0.743837
-13	noise	NC_022584	chromosome	Streptococcus sp. I-G2	1	0.7196859999999999
-13	noise	NC_022236	chromosome	Streptococcus constellatus	1	0.7196859999999999
-13	noise	NC_016749	chromosome	Streptococcus macedonicus	1	0.7196859999999999
-13	noise	NC_007606	chromosome	Shigella dysenteriae	1	0.7196859999999999
-13	noise	NC_006814	chromosome	Lactobacillus acidophilus	1	0.7196859999999999
-13	noise	NC_004337	chromosome	Shigella flexneri	1	0.7196859999999999
-14	noise	NC_011894	chromosome	Methylobacterium nodulans	1	0.7196859999999999
+13	bad	NZ_CP014912	chromosome	Lactobacillus paracollinoides	2	0.743837
+13	bad	NC_022584	chromosome	Streptococcus sp. I-G2	1	0.7196859999999999
+13	bad	NC_022236	chromosome	Streptococcus constellatus	1	0.7196859999999999
+13	bad	NC_016749	chromosome	Streptococcus macedonicus	1	0.7196859999999999
+13	bad	NC_007606	chromosome	Shigella dysenteriae	1	0.7196859999999999
+13	bad	NC_006814	chromosome	Lactobacillus acidophilus	1	0.7196859999999999
+13	bad	NC_004337	chromosome	Shigella flexneri	1	0.7196859999999999
+14	best	NC_011894	chromosome	Methylobacterium nodulans	1	0.7196859999999999
 15	best	NC_010170	chromosome	Bordetella petrii	107	0.899042
 16	best	NC_006814	chromosome	Lactobacillus acidophilus	942	0.997159
-16	noise	NC_005957	chromosome	Bacillus thuringiensis	1	0.7196859999999999
+16	bad	NC_005957	chromosome	Bacillus thuringiensis	1	0.7196859999999999
 17	best	NZ_CP014234	chromosome	Moraxella osloensis	129	0.907083
 18	best	NC_011894	chromosome	Methylobacterium nodulans	669	0.9810409999999999
-18	low	NZ_CP015093	chromosome	Pelagibaca abyssi	18	0.825882
-18	low	NC_014100	chromosome	Caulobacter segnis	16	0.821262
-18	noise	NC_010170	chromosome	Bordetella petrii	2	0.743837
-18	noise	NZ_CP022374	chromosome	Acetobacter pasteurianus	2	0.743837
-18	noise	NZ_CP008788	chromosome	Klebsiella oxytoca	1	0.7196859999999999
-18	noise	NC_009338	chromosome	Mycobacterium gilvum	1	0.7196859999999999
+18	ok	NZ_CP015093	chromosome	Pelagibaca abyssi	18	0.825882
+18	ok	NC_014100	chromosome	Caulobacter segnis	16	0.821262
+18	bad	NC_010170	chromosome	Bordetella petrii	2	0.743837
+18	bad	NZ_CP022374	chromosome	Acetobacter pasteurianus	2	0.743837
+18	bad	NZ_CP008788	chromosome	Klebsiella oxytoca	1	0.7196859999999999
+18	bad	NC_009338	chromosome	Mycobacterium gilvum	1	0.7196859999999999
 19	best	NZ_CP006905	chromosome	Clostridium baratii	994	0.999713
-19	noise	NZ_CP007772	chromosome	Campylobacter subantarcticus	1	0.7196859999999999
-19	noise	NC_022236	chromosome	Streptococcus constellatus	1	0.7196859999999999
-19	noise	NC_005957	chromosome	Bacillus thuringiensis	1	0.7196859999999999
+19	bad	NZ_CP007772	chromosome	Campylobacter subantarcticus	1	0.7196859999999999
+19	bad	NC_022236	chromosome	Streptococcus constellatus	1	0.7196859999999999
+19	bad	NC_005957	chromosome	Bacillus thuringiensis	1	0.7196859999999999
 2	best	NZ_CP022374	chromosome	Acetobacter pasteurianus	91	0.892135
-20	noise	NC_011894	chromosome	Methylobacterium nodulans	1	0.7196859999999999
+20	best	NC_011894	chromosome	Methylobacterium nodulans	1	0.7196859999999999
 21	best	NC_004578	chromosome	Pseudomonas syringae group genomosp. 3	977	0.998893
-21	noise	NZ_CP008788	chromosome	Klebsiella oxytoca	1	0.7196859999999999
-21	noise	NC_010170	chromosome	Bordetella petrii	1	0.7196859999999999
-21	noise	NC_009338	chromosome	Mycobacterium gilvum	1	0.7196859999999999
+21	bad	NZ_CP008788	chromosome	Klebsiella oxytoca	1	0.7196859999999999
+21	bad	NC_010170	chromosome	Bordetella petrii	1	0.7196859999999999
+21	bad	NC_009338	chromosome	Mycobacterium gilvum	1	0.7196859999999999
 22	best	NZ_CP008788	chromosome	Klebsiella oxytoca	52	0.868675
-22	noise	NC_007606	chromosome	Shigella dysenteriae	1	0.7196859999999999
-22	noise	NC_004337	chromosome	Shigella flexneri	1	0.7196859999999999
+22	bad	NC_007606	chromosome	Shigella dysenteriae	1	0.7196859999999999
+22	bad	NC_004337	chromosome	Shigella flexneri	1	0.7196859999999999
 23	best	NZ_CP016896	chromosome	Acinetobacter soli	60	0.8746149999999999
-23	noise	NZ_CP014912	chromosome	Lactobacillus paracollinoides	1	0.7196859999999999
+23	bad	NZ_CP014912	chromosome	Lactobacillus paracollinoides	1	0.7196859999999999
 24	best	NZ_CP014912	chromosome	Lactobacillus paracollinoides	84	0.888741
-24	noise	NC_010610	chromosome	Lactobacillus fermentum	1	0.7196859999999999
-25	noise	NZ_CP015093	chromosome	Pelagibaca abyssi	1	0.7196859999999999
+24	bad	NC_010610	chromosome	Lactobacillus fermentum	1	0.7196859999999999
+25	best	NZ_CP015093	chromosome	Pelagibaca abyssi	1	0.7196859999999999
 26	best	NZ_CP015093	chromosome	Pelagibaca abyssi	51	0.867872
-26	noise	NC_017445	chromosome	Erwinia sp. Ejp617	1	0.7196859999999999
-26	noise	NC_011894	chromosome	Methylobacterium nodulans	1	0.7196859999999999
+26	bad	NC_017445	chromosome	Erwinia sp. Ejp617	1	0.7196859999999999
+26	bad	NC_011894	chromosome	Methylobacterium nodulans	1	0.7196859999999999
 27	best	NZ_CP017141	chromosome	Pedobacter steynii	169	0.918825
-27	noise	NC_022236	chromosome	Streptococcus constellatus	4	0.768798
-27	noise	NC_022584	chromosome	Streptococcus sp. I-G2	2	0.743837
+27	bad	NC_022236	chromosome	Streptococcus constellatus	4	0.768798
+27	bad	NC_022584	chromosome	Streptococcus sp. I-G2	2	0.743837
 28	best	NC_017445	chromosome	Erwinia sp. Ejp617	941	0.997108
-28	noise	NZ_CP008788	chromosome	Klebsiella oxytoca	7	0.789561
-28	noise	NC_007606	chromosome	Shigella dysenteriae	5	0.777011
-28	noise	NC_004337	chromosome	Shigella flexneri	3	0.758338
+28	bad	NZ_CP008788	chromosome	Klebsiella oxytoca	7	0.789561
+28	bad	NC_007606	chromosome	Shigella dysenteriae	5	0.777011
+28	bad	NC_004337	chromosome	Shigella flexneri	3	0.758338
 29	best	NC_014100	chromosome	Caulobacter segnis	63	0.876649
-29	noise	NC_011894	chromosome	Methylobacterium nodulans	2	0.743837
-29	noise	NZ_CP015093	chromosome	Pelagibaca abyssi	1	0.7196859999999999
-29	noise	NZ_CP008788	chromosome	Klebsiella oxytoca	1	0.7196859999999999
+29	bad	NC_011894	chromosome	Methylobacterium nodulans	2	0.743837
+29	bad	NZ_CP015093	chromosome	Pelagibaca abyssi	1	0.7196859999999999
+29	bad	NZ_CP008788	chromosome	Klebsiella oxytoca	1	0.7196859999999999
 3	best	NC_004337	chromosome	Shigella flexneri	933	0.9967030000000001
-3	secondary	NC_007606	chromosome	Shigella dysenteriae	611	0.9768129999999999
-3	low	NZ_CP008788	chromosome	Klebsiella oxytoca	11	0.806739
-3	noise	NC_017445	chromosome	Erwinia sp. Ejp617	7	0.789561
-3	noise	NZ_CP014623	chromosome	Lactobacillus backii	1	0.7196859999999999
-4	noise	NC_009338	chromosome	Mycobacterium gilvum	3	0.758338
+3	good	NC_007606	chromosome	Shigella dysenteriae	611	0.9768129999999999
+3	ok	NZ_CP008788	chromosome	Klebsiella oxytoca	11	0.806739
+3	bad	NC_017445	chromosome	Erwinia sp. Ejp617	7	0.789561
+3	bad	NZ_CP014623	chromosome	Lactobacillus backii	1	0.7196859999999999
+4	best	NC_009338	chromosome	Mycobacterium gilvum	3	0.758338
 5	best	NC_010170	chromosome	Bordetella petrii	825	0.9908809999999999
-5	noise	NZ_CP015866	chromosome	Streptomyces parvulus	1	0.7196859999999999
-5	noise	NZ_CP008788	chromosome	Klebsiella oxytoca	1	0.7196859999999999
-5	noise	NC_011894	chromosome	Methylobacterium nodulans	1	0.7196859999999999
-5	noise	NC_004578	chromosome	Pseudomonas syringae group genomosp. 3	1	0.7196859999999999
+5	bad	NZ_CP015866	chromosome	Streptomyces parvulus	1	0.7196859999999999
+5	bad	NZ_CP008788	chromosome	Klebsiella oxytoca	1	0.7196859999999999
+5	bad	NC_011894	chromosome	Methylobacterium nodulans	1	0.7196859999999999
+5	bad	NC_004578	chromosome	Pseudomonas syringae group genomosp. 3	1	0.7196859999999999
 6	best	NC_010655	chromosome	Akkermansia muciniphila	952	0.99766
-6	noise	NZ_CP022374	chromosome	Acetobacter pasteurianus	1	0.7196859999999999
+6	bad	NZ_CP022374	chromosome	Acetobacter pasteurianus	1	0.7196859999999999
 7	best	NZ_CP015866	chromosome	Streptomyces parvulus	994	0.999713
-7	noise	NZ_LT635457	chromosome	Actinomyces sp. Marseille-P2985	2	0.743837
-7	noise	NC_009338	chromosome	Mycobacterium gilvum	2	0.743837
-7	noise	NZ_CP016483	chromosome	Synechococcus sp. PCC 8807	1	0.7196859999999999
-7	noise	NZ_CP015093	chromosome	Pelagibaca abyssi	1	0.7196859999999999
-7	noise	NC_014100	chromosome	Caulobacter segnis	1	0.7196859999999999
-7	noise	NC_011894	chromosome	Methylobacterium nodulans	1	0.7196859999999999
-7	noise	NC_010610	chromosome	Lactobacillus fermentum	1	0.7196859999999999
-7	noise	NC_010170	chromosome	Bordetella petrii	1	0.7196859999999999
+7	bad	NZ_LT635457	chromosome	Actinomyces sp. Marseille-P2985	2	0.743837
+7	bad	NC_009338	chromosome	Mycobacterium gilvum	2	0.743837
+7	bad	NZ_CP016483	chromosome	Synechococcus sp. PCC 8807	1	0.7196859999999999
+7	bad	NZ_CP015093	chromosome	Pelagibaca abyssi	1	0.7196859999999999
+7	bad	NC_014100	chromosome	Caulobacter segnis	1	0.7196859999999999
+7	bad	NC_011894	chromosome	Methylobacterium nodulans	1	0.7196859999999999
+7	bad	NC_010610	chromosome	Lactobacillus fermentum	1	0.7196859999999999
+7	bad	NC_010170	chromosome	Bordetella petrii	1	0.7196859999999999
 8	best	NC_022236	chromosome	Streptococcus constellatus	154	0.914767
-8	secondary	NC_016749	chromosome	Streptococcus macedonicus	122	0.9046770000000001
-8	low	NC_005043	chromosome	Chlamydia pneumoniae	49	0.8662200000000001
-8	low	NC_022584	chromosome	Streptococcus sp. I-G2	45	0.862715
-8	noise	NZ_CP014912	chromosome	Lactobacillus paracollinoides	7	0.789561
-8	noise	NZ_CP017141	chromosome	Pedobacter steynii	5	0.777011
-8	noise	NZ_CP016896	chromosome	Acinetobacter soli	5	0.777011
-8	noise	NZ_CP016483	chromosome	Synechococcus sp. PCC 8807	4	0.768798
-8	noise	NC_010610	chromosome	Lactobacillus fermentum	4	0.768798
-8	noise	NZ_CP008788	chromosome	Klebsiella oxytoca	3	0.758338
+8	good	NC_016749	chromosome	Streptococcus macedonicus	122	0.9046770000000001
+8	ok	NC_005043	chromosome	Chlamydia pneumoniae	49	0.8662200000000001
+8	ok	NC_022584	chromosome	Streptococcus sp. I-G2	45	0.862715
+8	bad	NZ_CP014912	chromosome	Lactobacillus paracollinoides	7	0.789561
+8	bad	NZ_CP017141	chromosome	Pedobacter steynii	5	0.777011
+8	bad	NZ_CP016896	chromosome	Acinetobacter soli	5	0.777011
+8	bad	NZ_CP016483	chromosome	Synechococcus sp. PCC 8807	4	0.768798
+8	bad	NC_010610	chromosome	Lactobacillus fermentum	4	0.768798
+8	bad	NZ_CP008788	chromosome	Klebsiella oxytoca	3	0.758338
 9	best	NC_005957	chromosome	Bacillus thuringiensis	997	0.999857
-9	noise	NC_016749	chromosome	Streptococcus macedonicus	2	0.743837
-9	noise	NZ_CP006905	chromosome	Clostridium baratii	2	0.743837
-9	noise	NC_006814	chromosome	Lactobacillus acidophilus	2	0.743837
-9	noise	NC_022584	chromosome	Streptococcus sp. I-G2	1	0.7196859999999999
-9	noise	NC_022236	chromosome	Streptococcus constellatus	1	0.7196859999999999
-9	noise	NZ_CP016483	chromosome	Synechococcus sp. PCC 8807	1	0.7196859999999999
-9	noise	NZ_CP007772	chromosome	Campylobacter subantarcticus	1	0.7196859999999999
+9	bad	NC_016749	chromosome	Streptococcus macedonicus	2	0.743837
+9	bad	NZ_CP006905	chromosome	Clostridium baratii	2	0.743837
+9	bad	NC_006814	chromosome	Lactobacillus acidophilus	2	0.743837
+9	bad	NC_022584	chromosome	Streptococcus sp. I-G2	1	0.7196859999999999
+9	bad	NC_022236	chromosome	Streptococcus constellatus	1	0.7196859999999999
+9	bad	NZ_CP016483	chromosome	Synechococcus sp. PCC 8807	1	0.7196859999999999
+9	bad	NZ_CP007772	chromosome	Campylobacter subantarcticus	1	0.7196859999999999
 unbinned	best	NZ_CP016483	chromosome	Synechococcus sp. PCC 8807	270	0.9395549999999999
-unbinned	secondary	NC_010610	chromosome	Lactobacillus fermentum	241	0.934485
-unbinned	secondary	NZ_LT635457	chromosome	Actinomyces sp. Marseille-P2985	222	0.9308379999999999
-unbinned	secondary	NC_005043	chromosome	Chlamydia pneumoniae	213	0.929005
-unbinned	secondary	NC_022584	chromosome	Streptococcus sp. I-G2	187	0.923264
-unbinned	secondary	NZ_CP014912	chromosome	Lactobacillus paracollinoides	172	0.919595
-unbinned	low	NZ_CP016896	chromosome	Acinetobacter soli	152	0.914198
-unbinned	low	NZ_CP022374	chromosome	Acetobacter pasteurianus	151	0.91391
-unbinned	low	NC_016749	chromosome	Streptococcus macedonicus	94	0.8935139999999999
-unbinned	low	NZ_CP017141	chromosome	Pedobacter steynii	91	0.892135
-unbinned	low	NZ_CP008788	chromosome	Klebsiella oxytoca	88	0.8907120000000001
-unbinned	low	NC_022236	chromosome	Streptococcus constellatus	88	0.8907120000000001
-unbinned	low	NZ_CP014234	chromosome	Moraxella osloensis	71	0.881654
-unbinned	low	NC_011894	chromosome	Methylobacterium nodulans	54	0.870238
-unbinned	low	NZ_CP014623	chromosome	Lactobacillus backii	51	0.867872
-unbinned	low	NZ_CP015093	chromosome	Pelagibaca abyssi	49	0.8662200000000001
-unbinned	low	NC_004337	chromosome	Shigella flexneri	49	0.8662200000000001
-unbinned	low	NC_006814	chromosome	Lactobacillus acidophilus	44	0.861792
-unbinned	low	NC_017445	chromosome	Erwinia sp. Ejp617	41	0.858899
-unbinned	low	NC_010170	chromosome	Bordetella petrii	37	0.8547110000000001
-unbinned	low	NC_007606	chromosome	Shigella dysenteriae	37	0.8547110000000001
-unbinned	low	NZ_CP007772	chromosome	Campylobacter subantarcticus	34	0.851276
-unbinned	low	NC_014100	chromosome	Caulobacter segnis	31	0.84754
-unbinned	low	NC_010655	chromosome	Akkermansia muciniphila	25	0.838902
-unbinned	low	NC_009338	chromosome	Mycobacterium gilvum	12	0.810088
-unbinned	low	NC_004578	chromosome	Pseudomonas syringae group genomosp. 3	11	0.806739
-unbinned	noise	NZ_CP013023	chromosome	Paenibacillus bovis	4	0.768798
-unbinned	noise	NZ_CP006905	chromosome	Clostridium baratii	4	0.768798
-unbinned	noise	NC_005957	chromosome	Bacillus thuringiensis	2	0.743837
-unbinned	noise	NZ_CP015866	chromosome	Streptomyces parvulus	2	0.743837
+unbinned	good	NC_010610	chromosome	Lactobacillus fermentum	241	0.934485
+unbinned	good	NZ_LT635457	chromosome	Actinomyces sp. Marseille-P2985	222	0.9308379999999999
+unbinned	good	NC_005043	chromosome	Chlamydia pneumoniae	213	0.929005
+unbinned	good	NC_022584	chromosome	Streptococcus sp. I-G2	187	0.923264
+unbinned	good	NZ_CP014912	chromosome	Lactobacillus paracollinoides	172	0.919595
+unbinned	ok	NZ_CP016896	chromosome	Acinetobacter soli	152	0.914198
+unbinned	ok	NZ_CP022374	chromosome	Acetobacter pasteurianus	151	0.91391
+unbinned	ok	NC_016749	chromosome	Streptococcus macedonicus	94	0.8935139999999999
+unbinned	ok	NZ_CP017141	chromosome	Pedobacter steynii	91	0.892135
+unbinned	ok	NZ_CP008788	chromosome	Klebsiella oxytoca	88	0.8907120000000001
+unbinned	ok	NC_022236	chromosome	Streptococcus constellatus	88	0.8907120000000001
+unbinned	ok	NZ_CP014234	chromosome	Moraxella osloensis	71	0.881654
+unbinned	ok	NC_011894	chromosome	Methylobacterium nodulans	54	0.870238
+unbinned	ok	NZ_CP014623	chromosome	Lactobacillus backii	51	0.867872
+unbinned	ok	NZ_CP015093	chromosome	Pelagibaca abyssi	49	0.8662200000000001
+unbinned	ok	NC_004337	chromosome	Shigella flexneri	49	0.8662200000000001
+unbinned	ok	NC_006814	chromosome	Lactobacillus acidophilus	44	0.861792
+unbinned	ok	NC_017445	chromosome	Erwinia sp. Ejp617	41	0.858899
+unbinned	ok	NC_010170	chromosome	Bordetella petrii	37	0.8547110000000001
+unbinned	ok	NC_007606	chromosome	Shigella dysenteriae	37	0.8547110000000001
+unbinned	ok	NZ_CP007772	chromosome	Campylobacter subantarcticus	34	0.851276
+unbinned	ok	NC_014100	chromosome	Caulobacter segnis	31	0.84754
+unbinned	ok	NC_010655	chromosome	Akkermansia muciniphila	25	0.838902
+unbinned	ok	NC_009338	chromosome	Mycobacterium gilvum	12	0.810088
+unbinned	ok	NC_004578	chromosome	Pseudomonas syringae group genomosp. 3	11	0.806739
+unbinned	bad	NZ_CP013023	chromosome	Paenibacillus bovis	4	0.768798
+unbinned	bad	NZ_CP006905	chromosome	Clostridium baratii	4	0.768798
+unbinned	bad	NC_005957	chromosome	Bacillus thuringiensis	2	0.743837
+unbinned	bad	NZ_CP015866	chromosome	Streptomyces parvulus	2	0.743837

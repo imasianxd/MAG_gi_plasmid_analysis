@@ -1,175 +1,175 @@
-1	noise	NZ_CP021170	plasmid	Paenibacillus bovis	1	0.7196859999999999
-1	noise	NZ_CP014238	plasmid	Moraxella osloensis	1	0.7196859999999999
-10	noise	NZ_CP016903	plasmid	Acinetobacter soli	1	0.7196859999999999
-11	noise	NZ_CP014236	plasmid	Moraxella osloensis	4	0.768798
-11	noise	NZ_CP014235	plasmid	Moraxella osloensis	1	0.7196859999999999
-11	noise	NZ_CP014237	plasmid	Moraxella osloensis	1	0.7196859999999999
+1	best	NZ_CP021170	plasmid	Paenibacillus bovis	1	0.7196859999999999
+1	best	NZ_CP014238	plasmid	Moraxella osloensis	1	0.7196859999999999
+10	best	NZ_CP016903	plasmid	Acinetobacter soli	1	0.7196859999999999
+11	best	NZ_CP014236	plasmid	Moraxella osloensis	4	0.768798
+11	bad	NZ_CP014235	plasmid	Moraxella osloensis	1	0.7196859999999999
+11	bad	NZ_CP014237	plasmid	Moraxella osloensis	1	0.7196859999999999
 12	best	NC_009339	plasmid	Mycobacterium gilvum	30	0.846217
-12	secondary	NZ_CP015092	plasmid	Pelagibaca abyssi	15	0.818742
-12	noise	NZ_CP015867	plasmid	Streptomyces parvulus	1	0.7196859999999999
-12	noise	NC_011892	plasmid	Methylobacterium nodulans	1	0.7196859999999999
-12	noise	NC_009340	plasmid	Mycobacterium gilvum	1	0.7196859999999999
-13	low	NZ_CP014625	plasmid	Lactobacillus backii	10	0.803086
-13	noise	NZ_CP014631	plasmid	Lactobacillus backii	8	0.794597
-13	noise	NZ_CP014633	plasmid	Lactobacillus backii	7	0.789561
-13	noise	NZ_CP014628	plasmid	Lactobacillus backii	7	0.789561
-13	noise	NZ_CP014624	plasmid	Lactobacillus backii	1	0.7196859999999999
+12	good	NZ_CP015092	plasmid	Pelagibaca abyssi	15	0.818742
+12	bad	NZ_CP015867	plasmid	Streptomyces parvulus	1	0.7196859999999999
+12	bad	NC_011892	plasmid	Methylobacterium nodulans	1	0.7196859999999999
+12	bad	NC_009340	plasmid	Mycobacterium gilvum	1	0.7196859999999999
+13	best	NZ_CP014625	plasmid	Lactobacillus backii	10	0.803086
+13	bad	NZ_CP014631	plasmid	Lactobacillus backii	8	0.794597
+13	bad	NZ_CP014633	plasmid	Lactobacillus backii	7	0.789561
+13	bad	NZ_CP014628	plasmid	Lactobacillus backii	7	0.789561
+13	bad	NZ_CP014624	plasmid	Lactobacillus backii	1	0.7196859999999999
 14	best	NC_011892	plasmid	Methylobacterium nodulans	854	0.9925129999999999
-14	low	NC_011887	plasmid	Methylobacterium nodulans	14	0.8160569999999999
-14	low	NC_011893	plasmid	Methylobacterium nodulans	12	0.810088
-14	noise	NZ_CP015095	plasmid	Pelagibaca abyssi	1	0.7196859999999999
-14	noise	NC_011895	plasmid	Methylobacterium nodulans	1	0.7196859999999999
-14	noise	NC_011890	plasmid	Methylobacterium nodulans	1	0.7196859999999999
-17	noise	NZ_CP014236	plasmid	Moraxella osloensis	4	0.768798
-17	noise	NZ_CP014237	plasmid	Moraxella osloensis	1	0.7196859999999999
+14	ok	NC_011887	plasmid	Methylobacterium nodulans	14	0.8160569999999999
+14	ok	NC_011893	plasmid	Methylobacterium nodulans	12	0.810088
+14	bad	NZ_CP015095	plasmid	Pelagibaca abyssi	1	0.7196859999999999
+14	bad	NC_011895	plasmid	Methylobacterium nodulans	1	0.7196859999999999
+14	bad	NC_011890	plasmid	Methylobacterium nodulans	1	0.7196859999999999
+17	best	NZ_CP014236	plasmid	Moraxella osloensis	4	0.768798
+17	bad	NZ_CP014237	plasmid	Moraxella osloensis	1	0.7196859999999999
 18	best	NZ_CP015092	plasmid	Pelagibaca abyssi	579	0.9743139999999999
-18	low	NZ_CP008791	plasmid	Klebsiella oxytoca	53	0.8694629999999999
-18	low	NZ_CP015094	plasmid	Pelagibaca abyssi	44	0.861792
-18	low	NC_011893	plasmid	Methylobacterium nodulans	23	0.835578
-18	low	NC_011892	plasmid	Methylobacterium nodulans	16	0.821262
-18	low	NZ_CP008790	plasmid	Klebsiella oxytoca	11	0.806739
-18	low	NC_011895	plasmid	Methylobacterium nodulans	10	0.803086
-18	low	NC_011887	plasmid	Methylobacterium nodulans	10	0.803086
-18	noise	NZ_CP015091	plasmid	Pelagibaca abyssi	4	0.768798
-18	noise	NZ_CP015090	plasmid	Pelagibaca abyssi	4	0.768798
-18	noise	NC_011890	plasmid	Methylobacterium nodulans	4	0.768798
-18	noise	NZ_CP015095	plasmid	Pelagibaca abyssi	3	0.758338
-18	noise	NC_011889	plasmid	Methylobacterium nodulans	2	0.743837
-18	noise	NC_017443	plasmid	Erwinia sp. Ejp617	1	0.7196859999999999
+18	ok	NZ_CP008791	plasmid	Klebsiella oxytoca	53	0.8694629999999999
+18	ok	NZ_CP015094	plasmid	Pelagibaca abyssi	44	0.861792
+18	ok	NC_011893	plasmid	Methylobacterium nodulans	23	0.835578
+18	ok	NC_011892	plasmid	Methylobacterium nodulans	16	0.821262
+18	ok	NZ_CP008790	plasmid	Klebsiella oxytoca	11	0.806739
+18	ok	NC_011895	plasmid	Methylobacterium nodulans	10	0.803086
+18	ok	NC_011887	plasmid	Methylobacterium nodulans	10	0.803086
+18	bad	NZ_CP015091	plasmid	Pelagibaca abyssi	4	0.768798
+18	bad	NZ_CP015090	plasmid	Pelagibaca abyssi	4	0.768798
+18	bad	NC_011890	plasmid	Methylobacterium nodulans	4	0.768798
+18	bad	NZ_CP015095	plasmid	Pelagibaca abyssi	3	0.758338
+18	bad	NC_011889	plasmid	Methylobacterium nodulans	2	0.743837
+18	bad	NC_017443	plasmid	Erwinia sp. Ejp617	1	0.7196859999999999
 19	best	NZ_CP006906	plasmid	Clostridium baratii	999	0.9999520000000001
-19	noise	NZ_CP016899	plasmid	Acinetobacter soli	1	0.7196859999999999
-2	noise	NZ_CP014625	plasmid	Lactobacillus backii	6	0.783786
-2	noise	NC_007607	plasmid	Shigella dysenteriae	1	0.7196859999999999
-2	noise	NC_004851	plasmid	Shigella flexneri	1	0.7196859999999999
+19	bad	NZ_CP016899	plasmid	Acinetobacter soli	1	0.7196859999999999
+2	best	NZ_CP014625	plasmid	Lactobacillus backii	6	0.783786
+2	bad	NC_007607	plasmid	Shigella dysenteriae	1	0.7196859999999999
+2	bad	NC_004851	plasmid	Shigella flexneri	1	0.7196859999999999
 20	best	NZ_CP015097	plasmid	Pelagibaca abyssi	995	0.999761
-20	secondary	NC_011888	plasmid	Methylobacterium nodulans	985	0.999281
-20	secondary	NC_011887	plasmid	Methylobacterium nodulans	707	0.983625
-20	low	NZ_CP008789	plasmid	Klebsiella oxytoca	26	0.840471
-20	noise	NC_011892	plasmid	Methylobacterium nodulans	6	0.783786
-20	noise	NC_011893	plasmid	Methylobacterium nodulans	3	0.758338
-20	noise	NC_011890	plasmid	Methylobacterium nodulans	2	0.743837
-20	noise	NZ_CP015089	plasmid	Pelagibaca abyssi	1	0.7196859999999999
-20	noise	NC_011895	plasmid	Methylobacterium nodulans	1	0.7196859999999999
-20	noise	NC_011889	plasmid	Methylobacterium nodulans	1	0.7196859999999999
+20	good	NC_011888	plasmid	Methylobacterium nodulans	985	0.999281
+20	good	NC_011887	plasmid	Methylobacterium nodulans	707	0.983625
+20	ok	NZ_CP008789	plasmid	Klebsiella oxytoca	26	0.840471
+20	bad	NC_011892	plasmid	Methylobacterium nodulans	6	0.783786
+20	bad	NC_011893	plasmid	Methylobacterium nodulans	3	0.758338
+20	bad	NC_011890	plasmid	Methylobacterium nodulans	2	0.743837
+20	bad	NZ_CP015089	plasmid	Pelagibaca abyssi	1	0.7196859999999999
+20	bad	NC_011895	plasmid	Methylobacterium nodulans	1	0.7196859999999999
+20	bad	NC_011889	plasmid	Methylobacterium nodulans	1	0.7196859999999999
 21	best	NC_004633	plasmid	Pseudomonas syringae group genomosp. 3	25	0.838902
-21	secondary	NC_004632	plasmid	Pseudomonas syringae group genomosp. 3	21	0.831966
-21	noise	NC_017447	plasmid	Erwinia sp. Ejp617	5	0.777011
-21	noise	NC_017443	plasmid	Erwinia sp. Ejp617	2	0.743837
-21	noise	NZ_CP015867	plasmid	Streptomyces parvulus	1	0.7196859999999999
-21	noise	NZ_CP015097	plasmid	Pelagibaca abyssi	1	0.7196859999999999
-21	noise	NZ_CP015095	plasmid	Pelagibaca abyssi	1	0.7196859999999999
-21	noise	NZ_CP015090	plasmid	Pelagibaca abyssi	1	0.7196859999999999
-21	noise	NC_017446	plasmid	Erwinia sp. Ejp617	1	0.7196859999999999
-21	noise	NC_017442	plasmid	Erwinia sp. Ejp617	1	0.7196859999999999
+21	good	NC_004632	plasmid	Pseudomonas syringae group genomosp. 3	21	0.831966
+21	bad	NC_017447	plasmid	Erwinia sp. Ejp617	5	0.777011
+21	bad	NC_017443	plasmid	Erwinia sp. Ejp617	2	0.743837
+21	bad	NZ_CP015867	plasmid	Streptomyces parvulus	1	0.7196859999999999
+21	bad	NZ_CP015097	plasmid	Pelagibaca abyssi	1	0.7196859999999999
+21	bad	NZ_CP015095	plasmid	Pelagibaca abyssi	1	0.7196859999999999
+21	bad	NZ_CP015090	plasmid	Pelagibaca abyssi	1	0.7196859999999999
+21	bad	NC_017446	plasmid	Erwinia sp. Ejp617	1	0.7196859999999999
+21	bad	NC_017442	plasmid	Erwinia sp. Ejp617	1	0.7196859999999999
 22	best	NC_017447	plasmid	Erwinia sp. Ejp617	22	0.8338110000000001
-22	secondary	NC_017443	plasmid	Erwinia sp. Ejp617	15	0.818742
-22	noise	NZ_CP021170	plasmid	Paenibacillus bovis	1	0.7196859999999999
+22	good	NC_017443	plasmid	Erwinia sp. Ejp617	15	0.818742
+22	bad	NZ_CP021170	plasmid	Paenibacillus bovis	1	0.7196859999999999
 25	best	NZ_CP015091	plasmid	Pelagibaca abyssi	994	0.999713
-25	noise	NZ_CP015095	plasmid	Pelagibaca abyssi	6	0.783786
-25	noise	NZ_CP015090	plasmid	Pelagibaca abyssi	1	0.7196859999999999
+25	bad	NZ_CP015095	plasmid	Pelagibaca abyssi	6	0.783786
+25	bad	NZ_CP015090	plasmid	Pelagibaca abyssi	1	0.7196859999999999
 26	best	NZ_CP015094	plasmid	Pelagibaca abyssi	55	0.8709979999999999
-26	secondary	NZ_CP015092	plasmid	Pelagibaca abyssi	33	0.850067
-26	noise	NZ_CP015097	plasmid	Pelagibaca abyssi	1	0.7196859999999999
-26	noise	NZ_CP015095	plasmid	Pelagibaca abyssi	1	0.7196859999999999
-26	noise	NZ_CP015090	plasmid	Pelagibaca abyssi	1	0.7196859999999999
-26	noise	NZ_CP015089	plasmid	Pelagibaca abyssi	1	0.7196859999999999
+26	good	NZ_CP015092	plasmid	Pelagibaca abyssi	33	0.850067
+26	bad	NZ_CP015097	plasmid	Pelagibaca abyssi	1	0.7196859999999999
+26	bad	NZ_CP015095	plasmid	Pelagibaca abyssi	1	0.7196859999999999
+26	bad	NZ_CP015090	plasmid	Pelagibaca abyssi	1	0.7196859999999999
+26	bad	NZ_CP015089	plasmid	Pelagibaca abyssi	1	0.7196859999999999
 27	best	NZ_CP008791	plasmid	Klebsiella oxytoca	46	0.863618
-27	secondary	NZ_CP008790	plasmid	Klebsiella oxytoca	10	0.803086
-27	noise	NZ_CP008789	plasmid	Klebsiella oxytoca	8	0.794597
-27	noise	NC_011895	plasmid	Methylobacterium nodulans	3	0.758338
+27	good	NZ_CP008790	plasmid	Klebsiella oxytoca	10	0.803086
+27	bad	NZ_CP008789	plasmid	Klebsiella oxytoca	8	0.794597
+27	bad	NC_011895	plasmid	Methylobacterium nodulans	3	0.758338
 28	best	NC_017447	plasmid	Erwinia sp. Ejp617	126	0.906067
-28	secondary	NC_017443	plasmid	Erwinia sp. Ejp617	86	0.8897370000000001
-28	secondary	NC_017442	plasmid	Erwinia sp. Ejp617	29	0.844852
-28	noise	NZ_CP015097	plasmid	Pelagibaca abyssi	1	0.7196859999999999
-28	noise	NZ_CP015091	plasmid	Pelagibaca abyssi	1	0.7196859999999999
-28	noise	NZ_CP015089	plasmid	Pelagibaca abyssi	1	0.7196859999999999
+28	good	NC_017443	plasmid	Erwinia sp. Ejp617	86	0.8897370000000001
+28	good	NC_017442	plasmid	Erwinia sp. Ejp617	29	0.844852
+28	bad	NZ_CP015097	plasmid	Pelagibaca abyssi	1	0.7196859999999999
+28	bad	NZ_CP015091	plasmid	Pelagibaca abyssi	1	0.7196859999999999
+28	bad	NZ_CP015089	plasmid	Pelagibaca abyssi	1	0.7196859999999999
 29	best	NC_017447	plasmid	Erwinia sp. Ejp617	48	0.8653700000000001
-29	noise	NC_017443	plasmid	Erwinia sp. Ejp617	4	0.768798
-29	noise	NZ_CP015092	plasmid	Pelagibaca abyssi	1	0.7196859999999999
-29	noise	NZ_CP015091	plasmid	Pelagibaca abyssi	1	0.7196859999999999
-29	noise	NC_011887	plasmid	Methylobacterium nodulans	1	0.7196859999999999
+29	bad	NC_017443	plasmid	Erwinia sp. Ejp617	4	0.768798
+29	bad	NZ_CP015092	plasmid	Pelagibaca abyssi	1	0.7196859999999999
+29	bad	NZ_CP015091	plasmid	Pelagibaca abyssi	1	0.7196859999999999
+29	bad	NC_011887	plasmid	Methylobacterium nodulans	1	0.7196859999999999
 3	best	NZ_CP008789	plasmid	Klebsiella oxytoca	282	0.9415020000000001
-3	low	NC_009344	plasmid	Shigella dysenteriae	19	0.828011
-3	low	NC_004851	plasmid	Shigella flexneri	18	0.825882
-3	low	NC_007607	plasmid	Shigella dysenteriae	11	0.806739
-3	noise	NZ_CP008790	plasmid	Klebsiella oxytoca	4	0.768798
-3	noise	NZ_CP008791	plasmid	Klebsiella oxytoca	1	0.7196859999999999
-3	noise	NZ_CP015097	plasmid	Pelagibaca abyssi	1	0.7196859999999999
-3	noise	NZ_CP015089	plasmid	Pelagibaca abyssi	1	0.7196859999999999
+3	ok	NC_009344	plasmid	Shigella dysenteriae	19	0.828011
+3	ok	NC_004851	plasmid	Shigella flexneri	18	0.825882
+3	ok	NC_007607	plasmid	Shigella dysenteriae	11	0.806739
+3	bad	NZ_CP008790	plasmid	Klebsiella oxytoca	4	0.768798
+3	bad	NZ_CP008791	plasmid	Klebsiella oxytoca	1	0.7196859999999999
+3	bad	NZ_CP015097	plasmid	Pelagibaca abyssi	1	0.7196859999999999
+3	bad	NZ_CP015089	plasmid	Pelagibaca abyssi	1	0.7196859999999999
 4	best	NC_009339	plasmid	Mycobacterium gilvum	871	0.993445
-4	noise	NC_009340	plasmid	Mycobacterium gilvum	1	0.7196859999999999
-5	noise	NZ_CP015089	plasmid	Pelagibaca abyssi	3	0.758338
-5	noise	NZ_CP015091	plasmid	Pelagibaca abyssi	2	0.743837
-5	noise	NZ_CP015095	plasmid	Pelagibaca abyssi	2	0.743837
-5	noise	NZ_CP015097	plasmid	Pelagibaca abyssi	1	0.7196859999999999
-5	noise	NZ_CP015090	plasmid	Pelagibaca abyssi	1	0.7196859999999999
-5	noise	NC_017443	plasmid	Erwinia sp. Ejp617	1	0.7196859999999999
-5	noise	NC_009340	plasmid	Mycobacterium gilvum	1	0.7196859999999999
+4	bad	NC_009340	plasmid	Mycobacterium gilvum	1	0.7196859999999999
+5	best	NZ_CP015089	plasmid	Pelagibaca abyssi	3	0.758338
+5	bad	NZ_CP015091	plasmid	Pelagibaca abyssi	2	0.743837
+5	bad	NZ_CP015095	plasmid	Pelagibaca abyssi	2	0.743837
+5	bad	NZ_CP015097	plasmid	Pelagibaca abyssi	1	0.7196859999999999
+5	bad	NZ_CP015090	plasmid	Pelagibaca abyssi	1	0.7196859999999999
+5	bad	NC_017443	plasmid	Erwinia sp. Ejp617	1	0.7196859999999999
+5	bad	NC_009340	plasmid	Mycobacterium gilvum	1	0.7196859999999999
 7	best	NZ_CP015867	plasmid	Streptomyces parvulus	972	0.998649
-7	noise	NZ_CP015090	plasmid	Pelagibaca abyssi	2	0.743837
-7	noise	NZ_CP015095	plasmid	Pelagibaca abyssi	2	0.743837
-7	noise	NC_017443	plasmid	Erwinia sp. Ejp617	2	0.743837
-7	noise	NZ_CP015091	plasmid	Pelagibaca abyssi	1	0.7196859999999999
-7	noise	NC_017447	plasmid	Erwinia sp. Ejp617	1	0.7196859999999999
-7	noise	NC_011893	plasmid	Methylobacterium nodulans	1	0.7196859999999999
-7	noise	NC_009339	plasmid	Mycobacterium gilvum	1	0.7196859999999999
+7	bad	NZ_CP015090	plasmid	Pelagibaca abyssi	2	0.743837
+7	bad	NZ_CP015095	plasmid	Pelagibaca abyssi	2	0.743837
+7	bad	NC_017443	plasmid	Erwinia sp. Ejp617	2	0.743837
+7	bad	NZ_CP015091	plasmid	Pelagibaca abyssi	1	0.7196859999999999
+7	bad	NC_017447	plasmid	Erwinia sp. Ejp617	1	0.7196859999999999
+7	bad	NC_011893	plasmid	Methylobacterium nodulans	1	0.7196859999999999
+7	bad	NC_009339	plasmid	Mycobacterium gilvum	1	0.7196859999999999
 8	best	NC_016750	plasmid	Streptococcus macedonicus	273	0.940049
-8	noise	NC_004632	plasmid	Pseudomonas syringae group genomosp. 3	2	0.743837
-9	noise	NC_006578	plasmid	Bacillus thuringiensis	9	0.799067
+8	bad	NC_004632	plasmid	Pseudomonas syringae group genomosp. 3	2	0.743837
+9	best	NC_006578	plasmid	Bacillus thuringiensis	9	0.799067
 unbinned	best	NZ_CP015089	plasmid	Pelagibaca abyssi	997	0.999857
-unbinned	secondary	NZ_CP016898	plasmid	Acinetobacter soli	996	0.9998090000000001
-unbinned	secondary	NZ_CP016489	plasmid	Synechococcus sp. PCC 8807	995	0.999761
-unbinned	secondary	NC_009340	plasmid	Mycobacterium gilvum	994	0.999713
-unbinned	secondary	NZ_CP016901	plasmid	Acinetobacter soli	990	0.9995219999999999
-unbinned	secondary	NC_011889	plasmid	Methylobacterium nodulans	988	0.999425
-unbinned	secondary	NC_006578	plasmid	Bacillus thuringiensis	987	0.9993770000000001
-unbinned	secondary	NC_009341	plasmid	Mycobacterium gilvum	986	0.9993290000000001
-unbinned	secondary	NZ_CP016897	plasmid	Acinetobacter soli	983	0.999184
-unbinned	secondary	NZ_CP016485	plasmid	Synechococcus sp. PCC 8807	983	0.999184
-unbinned	secondary	NZ_CP016900	plasmid	Acinetobacter soli	982	0.999135
-unbinned	secondary	NC_011890	plasmid	Methylobacterium nodulans	982	0.999135
-unbinned	secondary	NZ_CP016484	plasmid	Synechococcus sp. PCC 8807	979	0.9989899999999999
-unbinned	secondary	NZ_CP014237	plasmid	Moraxella osloensis	977	0.998893
-unbinned	secondary	NZ_CP016903	plasmid	Acinetobacter soli	959	0.998008
-unbinned	secondary	NZ_CP016488	plasmid	Synechococcus sp. PCC 8807	930	0.99655
-unbinned	secondary	NZ_CP016902	plasmid	Acinetobacter soli	921	0.9960889999999999
-unbinned	secondary	NZ_CP014238	plasmid	Moraxella osloensis	836	0.991506
-unbinned	secondary	NZ_CP014629	plasmid	Lactobacillus backii	771	0.987692
-unbinned	secondary	NZ_CP016486	plasmid	Synechococcus sp. PCC 8807	758	0.986893
-unbinned	secondary	NZ_CP014913	plasmid	Lactobacillus paracollinoides	751	0.9864569999999999
-unbinned	secondary	NZ_CP008789	plasmid	Klebsiella oxytoca	677	0.9815959999999999
-unbinned	secondary	NZ_CP008791	plasmid	Klebsiella oxytoca	675	0.9814579999999999
-unbinned	secondary	NZ_CP014626	plasmid	Lactobacillus backii	637	0.9787530000000001
-unbinned	secondary	NZ_CP014627	plasmid	Lactobacillus backii	561	0.97285
-unbinned	low	NZ_CP014628	plasmid	Lactobacillus backii	410	0.958432
-unbinned	low	NC_004633	plasmid	Pseudomonas syringae group genomosp. 3	305	0.945024
-unbinned	low	NZ_CP008790	plasmid	Klebsiella oxytoca	294	0.943372
-unbinned	low	NC_011887	plasmid	Methylobacterium nodulans	243	0.934853
-unbinned	low	NZ_CP014235	plasmid	Moraxella osloensis	235	0.933364
-unbinned	low	NZ_CP015092	plasmid	Pelagibaca abyssi	214	0.929212
-unbinned	low	NC_004851	plasmid	Shigella flexneri	144	0.911847
-unbinned	low	NC_009344	plasmid	Shigella dysenteriae	135	0.909049
-unbinned	low	NZ_CP015096	plasmid	Pelagibaca abyssi	117	0.902876
-unbinned	low	NZ_CP015095	plasmid	Pelagibaca abyssi	114	0.901759
-unbinned	low	NC_011892	plasmid	Methylobacterium nodulans	75	0.883958
-unbinned	low	NZ_CP015094	plasmid	Pelagibaca abyssi	63	0.876649
-unbinned	low	NC_009339	plasmid	Mycobacterium gilvum	60	0.8746149999999999
-unbinned	low	NZ_CP014632	plasmid	Lactobacillus backii	54	0.870238
-unbinned	low	NZ_CP014633	plasmid	Lactobacillus backii	46	0.863618
-unbinned	low	NC_007607	plasmid	Shigella dysenteriae	41	0.858899
-unbinned	low	NZ_CP014914	plasmid	Lactobacillus paracollinoides	40	0.8578899999999999
-unbinned	low	NZ_CP014631	plasmid	Lactobacillus backii	36	0.8535959999999999
-unbinned	low	NZ_CP014236	plasmid	Moraxella osloensis	27	0.841982
-unbinned	low	NZ_CP015090	plasmid	Pelagibaca abyssi	23	0.835578
-unbinned	low	NZ_CP014630	plasmid	Lactobacillus backii	21	0.831966
-unbinned	low	NZ_CP014624	plasmid	Lactobacillus backii	19	0.828011
-unbinned	low	NC_017442	plasmid	Erwinia sp. Ejp617	18	0.825882
-unbinned	low	NZ_CP014625	plasmid	Lactobacillus backii	15	0.818742
-unbinned	low	NC_017443	plasmid	Erwinia sp. Ejp617	14	0.8160569999999999
-unbinned	low	NZ_CP016899	plasmid	Acinetobacter soli	12	0.810088
-unbinned	low	NC_016750	plasmid	Streptococcus macedonicus	12	0.810088
-unbinned	low	NC_004632	plasmid	Pseudomonas syringae group genomosp. 3	12	0.810088
-unbinned	noise	NZ_CP015867	plasmid	Streptomyces parvulus	8	0.794597
-unbinned	noise	NC_011893	plasmid	Methylobacterium nodulans	6	0.783786
-unbinned	noise	NC_011895	plasmid	Methylobacterium nodulans	5	0.777011
-unbinned	noise	NZ_CP015097	plasmid	Pelagibaca abyssi	1	0.7196859999999999
+unbinned	good	NZ_CP016898	plasmid	Acinetobacter soli	996	0.9998090000000001
+unbinned	good	NZ_CP016489	plasmid	Synechococcus sp. PCC 8807	995	0.999761
+unbinned	good	NC_009340	plasmid	Mycobacterium gilvum	994	0.999713
+unbinned	good	NZ_CP016901	plasmid	Acinetobacter soli	990	0.9995219999999999
+unbinned	good	NC_011889	plasmid	Methylobacterium nodulans	988	0.999425
+unbinned	good	NC_006578	plasmid	Bacillus thuringiensis	987	0.9993770000000001
+unbinned	good	NC_009341	plasmid	Mycobacterium gilvum	986	0.9993290000000001
+unbinned	good	NZ_CP016897	plasmid	Acinetobacter soli	983	0.999184
+unbinned	good	NZ_CP016485	plasmid	Synechococcus sp. PCC 8807	983	0.999184
+unbinned	good	NZ_CP016900	plasmid	Acinetobacter soli	982	0.999135
+unbinned	good	NC_011890	plasmid	Methylobacterium nodulans	982	0.999135
+unbinned	good	NZ_CP016484	plasmid	Synechococcus sp. PCC 8807	979	0.9989899999999999
+unbinned	good	NZ_CP014237	plasmid	Moraxella osloensis	977	0.998893
+unbinned	good	NZ_CP016903	plasmid	Acinetobacter soli	959	0.998008
+unbinned	good	NZ_CP016488	plasmid	Synechococcus sp. PCC 8807	930	0.99655
+unbinned	good	NZ_CP016902	plasmid	Acinetobacter soli	921	0.9960889999999999
+unbinned	good	NZ_CP014238	plasmid	Moraxella osloensis	836	0.991506
+unbinned	good	NZ_CP014629	plasmid	Lactobacillus backii	771	0.987692
+unbinned	good	NZ_CP016486	plasmid	Synechococcus sp. PCC 8807	758	0.986893
+unbinned	good	NZ_CP014913	plasmid	Lactobacillus paracollinoides	751	0.9864569999999999
+unbinned	good	NZ_CP008789	plasmid	Klebsiella oxytoca	677	0.9815959999999999
+unbinned	good	NZ_CP008791	plasmid	Klebsiella oxytoca	675	0.9814579999999999
+unbinned	good	NZ_CP014626	plasmid	Lactobacillus backii	637	0.9787530000000001
+unbinned	good	NZ_CP014627	plasmid	Lactobacillus backii	561	0.97285
+unbinned	ok	NZ_CP014628	plasmid	Lactobacillus backii	410	0.958432
+unbinned	ok	NC_004633	plasmid	Pseudomonas syringae group genomosp. 3	305	0.945024
+unbinned	ok	NZ_CP008790	plasmid	Klebsiella oxytoca	294	0.943372
+unbinned	ok	NC_011887	plasmid	Methylobacterium nodulans	243	0.934853
+unbinned	ok	NZ_CP014235	plasmid	Moraxella osloensis	235	0.933364
+unbinned	ok	NZ_CP015092	plasmid	Pelagibaca abyssi	214	0.929212
+unbinned	ok	NC_004851	plasmid	Shigella flexneri	144	0.911847
+unbinned	ok	NC_009344	plasmid	Shigella dysenteriae	135	0.909049
+unbinned	ok	NZ_CP015096	plasmid	Pelagibaca abyssi	117	0.902876
+unbinned	ok	NZ_CP015095	plasmid	Pelagibaca abyssi	114	0.901759
+unbinned	ok	NC_011892	plasmid	Methylobacterium nodulans	75	0.883958
+unbinned	ok	NZ_CP015094	plasmid	Pelagibaca abyssi	63	0.876649
+unbinned	ok	NC_009339	plasmid	Mycobacterium gilvum	60	0.8746149999999999
+unbinned	ok	NZ_CP014632	plasmid	Lactobacillus backii	54	0.870238
+unbinned	ok	NZ_CP014633	plasmid	Lactobacillus backii	46	0.863618
+unbinned	ok	NC_007607	plasmid	Shigella dysenteriae	41	0.858899
+unbinned	ok	NZ_CP014914	plasmid	Lactobacillus paracollinoides	40	0.8578899999999999
+unbinned	ok	NZ_CP014631	plasmid	Lactobacillus backii	36	0.8535959999999999
+unbinned	ok	NZ_CP014236	plasmid	Moraxella osloensis	27	0.841982
+unbinned	ok	NZ_CP015090	plasmid	Pelagibaca abyssi	23	0.835578
+unbinned	ok	NZ_CP014630	plasmid	Lactobacillus backii	21	0.831966
+unbinned	ok	NZ_CP014624	plasmid	Lactobacillus backii	19	0.828011
+unbinned	ok	NC_017442	plasmid	Erwinia sp. Ejp617	18	0.825882
+unbinned	ok	NZ_CP014625	plasmid	Lactobacillus backii	15	0.818742
+unbinned	ok	NC_017443	plasmid	Erwinia sp. Ejp617	14	0.8160569999999999
+unbinned	ok	NZ_CP016899	plasmid	Acinetobacter soli	12	0.810088
+unbinned	ok	NC_016750	plasmid	Streptococcus macedonicus	12	0.810088
+unbinned	ok	NC_004632	plasmid	Pseudomonas syringae group genomosp. 3	12	0.810088
+unbinned	bad	NZ_CP015867	plasmid	Streptomyces parvulus	8	0.794597
+unbinned	bad	NC_011893	plasmid	Methylobacterium nodulans	6	0.783786
+unbinned	bad	NC_011895	plasmid	Methylobacterium nodulans	5	0.777011
+unbinned	bad	NZ_CP015097	plasmid	Pelagibaca abyssi	1	0.7196859999999999
