@@ -1,0 +1,13 @@
+Plasmid recovery from metagenome-assembled genomes
+
+1) Recovered plasmids from the input dataset were detected by BLASTing their sequences (query) against contig sequences (subject) in each bin. 
+- raw BLAST output: plasmid/blastout
+
+2) BLAST hits, of which the matched alignment against the reference plasmid sequences was less than 50% of the contig length, were removed. This gets rid of any poorly-assembled contigs with short matches at multiple locations on a plasmid sequence.
+- filtered BLAST output: plasmid/recovery/blastout50
+
+3) Per-base recovery of plasmids was calculated based by the number of non-overlapping plasmid bases covered by all contigs within a bin, divided by the total number of bases of the plasmid. Not all of plasmids from the simulated dataset were recovered due to poor BLAST alignment of the metagenome-assembled contigs.
+- summary of plasmid per-base recovery: plasmid/recovery/plasmid_perbase.tsv
+
+4) Contig regions containing plasmid sequences were extracted from each bin.
+-plasmid-containing contig sequences: plasmid/recovery/seq_by_plasmid
