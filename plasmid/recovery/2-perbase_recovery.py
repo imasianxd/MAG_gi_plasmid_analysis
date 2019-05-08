@@ -11,7 +11,7 @@ import os
 
 #function for calculating overlaps between intervals (genome coordinates between contigs within a bin)
 def getOverlap(a, b):
-    return max(0, min(a[1], b[1]) - max(a[0], b[0]))+1
+    return max(0, min(a[1], b[1]) - max(a[0], b[0]))
 
 
 OUT=open(DIR+"/plasmid_perbase.tsv", "w")
@@ -31,7 +31,7 @@ for b in os.listdir(DIR+'/blastout50'): #iterate through bins
         end2=0
 
         print('CURRENT FILE: '+f)
-        with open(DIR+"/blastout50/"+b+'/'+f,"r") as k:
+        with open(DIR+"/blastout50/"+b+'/tmp_'+f,"r") as k:
             for line in k:
                 splitline=line.split()
                 qseqid=splitline[0]
@@ -40,10 +40,14 @@ for b in os.listdir(DIR+'/blastout50'): #iterate through bins
                 start2=int(splitline[8])
                 end2=int(splitline[9])
 
+                if (start2 >= start1) and (end2 <= end1):
+                    continue
+                
                 overlap=getOverlap([start1,end1], [start2,end2]) #detect overlaps between current contig and previous contig (previous line)
+                print(str(start1)+'\t'+str(end1)+'\t'+str(start2)+'\t'+str(end2)+'\t'+str(overlap)+'\n')
                 
                 if overlap > 0:
-                    matchlen=matchlen+mlen-overlap
+                    matchlen=matchlen+mlen-(overlap+1)
                 else:
                     matchlen=matchlen+mlen
                     
