@@ -1,0 +1,66 @@
+species	biosample_acc	refseq_acc	type	bin	plasmidlen	matchlen	percent_rec
+Pseudomonas syringae group genomosp. 3	SAMN02604017	NC_004632	plasmid	bin.unbinned	67473	1635	2.423191499
+Pseudomonas syringae group genomosp. 3	SAMN02604017	NC_004633	plasmid	bin.unbinned	73661	24188	32.83691506
+Shigella flexneri	SAMN02603599	NC_004851	plasmid	bin.unbinned	221618	22059	9.953613876
+Bacillus thuringiensis	SAMN02598265	NC_006578	plasmid	bin.unbinned	77112	66916	86.77767403
+Shigella dysenteriae	SAMN02603600	NC_007607	plasmid	bin.unbinned	182726	4573	2.502654247
+Mycobacterium gilvum	SAMN02598346	NC_009339	plasmid	bin.4	321253	272384	84.78800198
+Mycobacterium gilvum	SAMN02598346	NC_009340	plasmid	bin.unbinned	25309	25181	99.49425106
+Mycobacterium gilvum	SAMN02598346	NC_009341	plasmid	NA	16660	0	0
+Shigella dysenteriae	SAMN02603600	NC_009344	plasmid	bin.unbinned	8953	1075	12.00714844
+Methylobacterium nodulans	SAMN00000043	NC_011887	plasmid	bin.20	458070	304745	66.52804157
+Methylobacterium nodulans	SAMN00000043	NC_011888	plasmid	bin.20	20286	19988	98.53100661
+Methylobacterium nodulans	SAMN00000043	NC_011889	plasmid	bin.unbinned	12638	8256	65.32679221
+Methylobacterium nodulans	SAMN00000043	NC_011890	plasmid	bin.unbinned	9829	9731	99.00295045
+Methylobacterium nodulans	SAMN00000043	NC_011892	plasmid	bin.14	487734	405093	83.05613306
+Methylobacterium nodulans	SAMN00000043	NC_011893	plasmid	NA	40463	0	0
+Methylobacterium nodulans	SAMN00000043	NC_011895	plasmid	NA	37542	0	0
+Streptococcus macedonicus	SAMEA2272145	NC_016750	plasmid	bin.8	12728	3701	29.07762414
+Erwinia sp. Ejp617	SAMN02603467	NC_017442	plasmid	NA	30866	0	0
+Erwinia sp. Ejp617	SAMN02603467	NC_017443	plasmid	NA	6417	0	0
+Erwinia sp. Ejp617	SAMN02603467	NC_017444	plasmid	NA	2691	0	0
+Erwinia sp. Ejp617	SAMN02603467	NC_017446	plasmid	NA	5296	0	0
+Erwinia sp. Ejp617	SAMN02603467	NC_017447	plasmid	NA	3237	0	0
+Clostridium baratii	SAMN03222823	NZ_CP006906	plasmid	bin.19	185364	185038	99.82412982
+Klebsiella oxytoca	SAMN02786843	NZ_CP008789	plasmid	bin.unbinned	133397	92247	69.15222981
+Klebsiella oxytoca	SAMN02786843	NZ_CP008790	plasmid	bin.unbinned	193725	37870	19.54832882
+Klebsiella oxytoca	SAMN02786843	NZ_CP008791	plasmid	bin.unbinned	205586	87550	42.58558462
+Moraxella osloensis	SAMN04435858	NZ_CP014235	plasmid	bin.unbinned	81455	16588	20.3646185
+Moraxella osloensis	SAMN04435858	NZ_CP014236	plasmid	NA	57463	0	0
+Moraxella osloensis	SAMN04435858	NZ_CP014237	plasmid	bin.unbinned	35189	34105	96.91949189
+Moraxella osloensis	SAMN04435858	NZ_CP014238	plasmid	bin.unbinned	40342	34027	84.3463388
+Lactobacillus backii	SAMN04505726	NZ_CP014624	plasmid	NA	44086	0	0
+Lactobacillus backii	SAMN04505726	NZ_CP014625	plasmid	NA	30007	0	0
+Lactobacillus backii	SAMN04505726	NZ_CP014626	plasmid	bin.unbinned	41380	25295	61.12856452
+Lactobacillus backii	SAMN04505726	NZ_CP014627	plasmid	bin.unbinned	18755	8438	44.99066915
+Lactobacillus backii	SAMN04505726	NZ_CP014628	plasmid	bin.unbinned	20916	6355	30.38343852
+Lactobacillus backii	SAMN04505726	NZ_CP014629	plasmid	bin.unbinned	10631	8227	77.3868874
+Lactobacillus backii	SAMN04505726	NZ_CP014630	plasmid	NA	10507	0	0
+Lactobacillus backii	SAMN04505726	NZ_CP014631	plasmid	NA	41809	0	0
+Lactobacillus backii	SAMN04505726	NZ_CP014632	plasmid	NA	27021	0	0
+Lactobacillus backii	SAMN04505726	NZ_CP014633	plasmid	NA	20407	0	0
+Lactobacillus paracollinoides	SAMN04505735	NZ_CP014913	plasmid	bin.unbinned	50174	37222	74.1858333
+Lactobacillus paracollinoides	SAMN04505735	NZ_CP014914	plasmid	NA	35858	0	0
+Pelagibaca abyssi	SAMN04562614	NZ_CP015089	plasmid	bin.unbinned	131420	131330	99.93151727
+Pelagibaca abyssi	SAMN04562614	NZ_CP015090	plasmid	bin.unbinned	188936	3325	1.759855189
+Pelagibaca abyssi	SAMN04562614	NZ_CP015091	plasmid	bin.25	250394	248867	99.39016111
+Pelagibaca abyssi	SAMN04562614	NZ_CP015092	plasmid	bin.18	156353	70119	44.84659712
+Pelagibaca abyssi	SAMN04562614	NZ_CP015094	plasmid	bin.unbinned	64192	1830	2.850822532
+Pelagibaca abyssi	SAMN04562614	NZ_CP015095	plasmid	bin.unbinned	134425	16216	12.06323229
+Pelagibaca abyssi	SAMN04562614	NZ_CP015096	plasmid	bin.unbinned	30421	4062	13.35261826
+Pelagibaca abyssi	SAMN04562614	NZ_CP015097	plasmid	NA	56541	0	0
+Streptomyces parvulus	SAMN04924834	NZ_CP015867	plasmid	bin.7	617085	597636	96.84824619
+Synechococcus sp. PCC 8807	SAMN04422305	NZ_CP016484	plasmid	bin.unbinned	4625	4532	97.98918919
+Synechococcus sp. PCC 8807	SAMN04422305	NZ_CP016485	plasmid	NA	13153	0	0
+Synechococcus sp. PCC 8807	SAMN04422305	NZ_CP016486	plasmid	bin.unbinned	15538	1642	10.56764062
+Synechococcus sp. PCC 8807	SAMN04422305	NZ_CP016487	plasmid	NA	18454	0	0
+Synechococcus sp. PCC 8807	SAMN04422305	NZ_CP016488	plasmid	bin.unbinned	27205	13363	49.11964712
+Synechococcus sp. PCC 8807	SAMN04422305	NZ_CP016489	plasmid	bin.unbinned	165618	145578	87.89986596
+Acinetobacter soli	SAMN05554081	NZ_CP016897	plasmid	bin.unbinned	86373	84666	98.02368796
+Acinetobacter soli	SAMN05554081	NZ_CP016898	plasmid	bin.unbinned	78649	78491	99.79910743
+Acinetobacter soli	SAMN05554081	NZ_CP016899	plasmid	NA	10453	0	0
+Acinetobacter soli	SAMN05554081	NZ_CP016900	plasmid	bin.unbinned	9416	9250	98.23704333
+Acinetobacter soli	SAMN05554081	NZ_CP016901	plasmid	NA	5086	0	0
+Acinetobacter soli	SAMN05554081	NZ_CP016902	plasmid	bin.unbinned	4066	3700	90.99852435
+Acinetobacter soli	SAMN05554081	NZ_CP016903	plasmid	bin.unbinned	4008	3875	96.68163673
+Paenibacillus bovis	SAMN04193493	NZ_CP021170	plasmid	NA	162922	0	0
